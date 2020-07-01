@@ -1,0 +1,17 @@
+/*
+    読み込んだ整数値の5倍の値を表示
+*/
+
+#include <stdio.h>
+
+int main(void)
+{
+    int no;     /* noはint型の変数*/
+
+    printf("整数を入力してください:");
+    scanf("%d", &no);
+
+    printf("あなたが入力した値の5倍の数は%dです。\n", no * 5);
+
+    return 0;
+}
