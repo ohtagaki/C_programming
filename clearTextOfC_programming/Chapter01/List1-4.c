@@ -1,12 +1,12 @@
 /*
-    ˆ¥ŽA‚ð‚µ‚ÄŽ©ŒÈÐ‰î‚ð‚·‚é
+    ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÄŽï¿½ï¿½ÈÐ‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 */
 
 #include <stdio.h>
 
 int main(void)
 {
-    printf("‚±‚ñ‚É‚¿‚ÍBŽ©•ª‚ªD‚«‚ÈH‚×•¨‚Íƒ‰[ƒƒ“‚Å‚·B\n");
+    printf("ã“ã‚“ã«ã¡ã¯ã€‚è‡ªåˆ†ãŒå¥½ããªé£Ÿã¹ç‰©ã¯ãƒ©ãƒ¼ãƒ¡ãƒ³ã§ã™ã€‚\n");
 
     return 0;
 }
