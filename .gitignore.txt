@@ -1,8 +1,8 @@
 #.exeファイルは不要
 *.exe
 
-#.projectファイルは不要
-*.project
+#.vscodeフォルダは不要
+clearTextOfC_programming/.vscode/
 
-#.settingsフォルダは不要
-.settings/
+#.vscodeフォルダは不要
+clearTextOfC_programming/Chapter01/.vscode/
