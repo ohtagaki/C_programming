@@ -1,0 +1,8 @@
+#.exeファイルは不要
+*.exe
+
+#.vscodeフォルダは不要
+.vscode/
+
+#.vscodeフォルダは不要
+Chapter01/.vscode/

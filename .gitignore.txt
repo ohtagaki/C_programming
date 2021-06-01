@@ -1,0 +1,8 @@
+#.exeファイルは不要
+*.exe
+
+#.projectファイルは不要
+*.project
+
+#.settingsフォルダは不要
+.settings/

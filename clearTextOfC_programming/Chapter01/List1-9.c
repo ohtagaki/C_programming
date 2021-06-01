@@ -1,16 +1,15 @@
 /*
-    2‚Â‚Ì•Ï”‚É’l‚ð‘ã“ü‚¹‚¸‚É•\Ž¦
+    2ï¿½Â‚Ì•Ïï¿½ï¿½É’lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É•\ï¿½ï¿½
 */
 
 #include <stdio.h>
 
 int main(void)
 {
-    int vx, vy;     /* vx‚Ævy‚ÍintŒ^‚Ì•Ï”*/
-    /*•Ï”‚ª¶¬‚³‚ê‚éÛ‚É‚ÍA•s’è’l(‚²‚Ý‚Ì’l)‚ª“ü‚ê‚ç‚ê‚é*/
+    int vx, vy;     /* vxã¨vyã¯intåž‹ã®å¤‰æ•°*/
 
-    printf("vx‚Ì’l‚Í%d‚Å‚·B\n", vx);
-    printf("vy‚Ì’l‚Í%d‚Å‚·B\n", vy);
+    printf("vxã®å€¤ã¯%dã§ã™ã€‚\n", vx);
+    printf("vyã®å€¤ã¯%dã§ã™ã€‚\n", vy);
 
     return 0;
 }
